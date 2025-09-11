@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=hi%20everyone&animation=fadeIn&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&fontSize=50&text=Hey%20there,%20wanna%20play%20games?🎲️&animation=fadeIn&theme=gruvbox-light)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&theme=gruvbox-light)
 <!--
 **ByteCold/ByteCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
