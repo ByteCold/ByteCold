@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&fontSize=50&text=Hey%20there,%20wanna%20play%20games?🎲️&animation=fadeIn&theme=gruvbox-light)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&fontSize=50&text=Hey,%20there%20👋️👋️&animation=fadeIn&theme=gruvbox-light)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&theme=gruvbox-light)
 <!--
