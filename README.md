@@ -4,6 +4,17 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ByteCold&style=flat-square&color=blue" alt=""></p>
 
+---
+
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteCold/ByteCold/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteCold/ByteCold/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByteCold/ByteCold/output/github-contribution-grid-snake.svg">
+    </picture>   
+  </div>
+
+---
 
 <!--
 **ByteCold/ByteCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
