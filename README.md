@@ -1,9 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&fontSize=50&text=Hey,%20there%20👋️👋️&animation=fadeIn&theme=gruvbox-light)
+<h1 align="center">My Lord, May I, If I may?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&theme=gruvbox-light)
+<h3 align="center">A passionate programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ByteCold&style=flat-square&color=blue" alt=""></p>
+
+
 <!--
 **ByteCold/ByteCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+It is better to travel ten thousand miles than read ten thousand
+books.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
