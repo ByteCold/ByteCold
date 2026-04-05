@@ -5,6 +5,8 @@
 
 ---
 ## About me:
+- :book: I love reading books.
+- 💠 I make origami.
 
 ---
 ## 🛠 &nbsp;Language and tools:
