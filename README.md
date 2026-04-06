@@ -1,9 +1,10 @@
-<h1 align="center">My Lord, May I, If I may?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<!--<h1 align="center">My Lord, May I, If I may?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+-->
 <img align="right" src="https://komarev.com/ghpvc/?username=ByteCold&style=flat-square&color=blue" alt=""></p>
-<h3 align="center">A passionate programmer and an open-source enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h1 align="center">A Work In Progress  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 
 
----
+<!--
 ## About me:
 - :book: I love reading books.
 - 💠 I make origami.
@@ -20,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
----
+-->
 
   <div>
     <picture>
@@ -30,7 +31,6 @@
     </picture>   
   </div>
 
----
 
 <!--
 **ByteCold/ByteCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
